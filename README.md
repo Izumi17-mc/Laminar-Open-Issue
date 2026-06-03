@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="Laminar" src="https://github.com/user-attachments/assets/7482bb56-1007-4e00-9538-bf86e8446ad5" />
+
 # Laminar - Official Issue Tracker & Bug Tracker
 
 This repository is the official public tracker for bug reports, compatibility issues, and feature requests for the **Laminar Engine** Minecraft optimization mod. 
