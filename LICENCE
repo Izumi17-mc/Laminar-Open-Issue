@@ -1,7 +1,9 @@
-Copyright (c) 2026 Izumi17-mc
+Laminar Engine License (All Rights Reserved)
 
-All Rights Reserved.
+Copyright (c) 2026 Izumi17-mc. All Rights Reserved.
 
-No part of this repository's documentation, issue templates, README, or configuration files may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright holder (Izumi17-mc).
+The compiled binaries, source code, and associated assets of this software (Laminar Engine) are proprietary and confidential.
 
-The official "Laminar" mod compiled binaries and source code are strictly proprietary and protected under the main project's All Rights Reserved license.
+Redistribution, modification, decompilation, reverse engineering, or extraction of any portion of this software—including but not limited to the compiled Java classes, OpenCL kernel files (.cl), and asset resources—is strictly prohibited without the prior written permission of the copyright holder (Izumi17-mc).
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
