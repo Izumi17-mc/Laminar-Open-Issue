@@ -6,7 +6,7 @@
 
 Welcome! This repository serves as the public space to report bugs, discuss hardware compatibility, and suggest features for the Laminar Engine Minecraft mod.
 
-As mentioned on the Modrinth page, Laminar is a solo experiment. The source code is closed-source and kept in a private repository simply because I figured you guys wouldn't want to look at it, and honestly, neither do I. You will not find any code here—this space is purely for community feedback and issue tracking.
+As mentioned on the Modrinth page, Laminar is a solo experiment. The source code is closed-source and kept in a private repository simply because I want to keep the development manageable and stress-free for me. You will not find any code here—this space is purely for community feedback and issue tracking.
 
 ---
 
